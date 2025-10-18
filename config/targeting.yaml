@@ -1,0 +1,52 @@
+locations:
+  Germany:
+    urn: "urn:urn%3Ali%3Ageo%3A101282230"
+    name: "Germany"
+    ancestor: "urn%3Ali%3Ageo%3A100506914"
+  Italy:
+    urn: "urn:urn%3Ali%3Ageo%3A103350119"
+    name: "Italy"
+    ancestor: "urn%3Ali%3Ageo%3A100506914"
+  Denmark:
+    urn: "urn:urn%3Ali%3Ageo%3A104514075"
+    name: "Denmark"
+    ancestor: "urn%3Ali%3Ageo%3A100506914"
+
+age_ranges:
+  "18-24":
+    urn: "urn:urn%3Ali%3AageRange%3A%2818%2C24%29"
+    name: "18%20to%2024"
+  "25-34":
+    urn: "urn:urn%3Ali%3Ageo%3A%2825%2C34%29"
+    name: "25%20to%2034"
+  "35-54":
+    urn: "urn:urn%3Ali%3Ageo%3A%2835%2C54%29"
+    name: "35%20to%2054"
+  "55+":
+    urn: "urn:urn%3Ali%3Ageo%3A%2855%2C2147483647%29"
+    name: "55%2B"
+
+genders:
+  male:
+    urn: "urn:urn%3Ali%3Agender%3AMALE"
+    name: "Male"
+  female:
+    urn: "urn:urn%3Ali%3Agender%3AFEMALE"
+    name: "Female"
+
+languages:
+  Italian:
+    urn: "urn:urn%3Ali%3Alocale%3Ait_IT"
+    name: "Italian"
+  French:
+    urn: "urn:urn%3Ali%3Alocale%3Afr_FR"
+    name: "French"
+  Spanish:
+    urn: "urn:urn%3Ali%3Alocale%3Aes_ES"
+    name: "Spanish"
+  English:
+    urn: "urn:urn%3Ali%3Alocale%3Aen_US"
+    name: "English"
+  German:  # Added for completeness
+    urn: "urn:urn%3Ali%3Alocale%3Ade_DE"
+    name: "German"

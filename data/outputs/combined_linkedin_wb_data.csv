@@ -1,0 +1,2 @@
+location,age_range,gender,language,audience_count,success,error,timestamp,data_source,wb_population_estimate,linkedin_penetration_rate,data_quality_flag
+Germany,All,All,English,24000000,True,,2025-10-18T19:29:38.081139,real_api,83901923,28.6,ok

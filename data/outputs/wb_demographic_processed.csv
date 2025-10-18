@@ -1,0 +1,16 @@
+location,age_range,gender,wb_population_estimate
+Germany,All,All,83901923
+Germany,18-24,All,12585288
+Germany,25-34,All,20975480
+Germany,35-54,All,25170576
+Germany,55+,All,25170576
+Germany,All,male,41950961
+Germany,All,female,41950961
+Germany,18-24,male,6292644
+Germany,18-24,female,6292644
+Germany,25-34,male,10487740
+Germany,25-34,female,10487740
+Germany,35-54,male,12585288
+Germany,35-54,female,12585288
+Germany,55+,male,12585288
+Germany,55+,female,12585288
