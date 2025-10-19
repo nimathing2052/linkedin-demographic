@@ -1,10 +1,358 @@
 country,country_code,indicator_code,indicator_name,year,value
-Germany,DEU,SP.POP.TOTL,Total Population,2023,83901923
-Germany,DEU,SP.POP.TOTL,Total Population,2022,83797985
-Germany,DEU,SP.POP.TOTL,Total Population,2021,83196078
-Germany,DEU,SP.POP.TOTL,Total Population,2020,83160871
-Germany,DEU,SP.POP.TOTL,Total Population,2019,83092962
-Germany,DEU,SP.POP.TOTL,Total Population,2018,82905782
-Germany,DEU,SP.POP.TOTL,Total Population,2017,82657002
-Germany,DEU,SP.POP.TOTL,Total Population,2016,82348669
-Germany,DEU,SP.POP.TOTL,Total Population,2015,81686611
+Germany,DEU,SP.POP.TOTL,Total Population,2023,83901923.0
+Germany,DEU,SP.POP.TOTL,Total Population,2022,83797985.0
+Germany,DEU,SP.POP.TOTL,Total Population,2021,83196078.0
+Germany,DEU,SP.POP.TOTL,Total Population,2020,83160871.0
+Germany,DEU,SP.POP.TOTL,Total Population,2019,83092962.0
+Germany,DEU,SP.POP.TOTL,Total Population,2018,82905782.0
+Germany,DEU,SP.POP.TOTL,Total Population,2017,82657002.0
+Germany,DEU,SP.POP.TOTL,Total Population,2016,82348669.0
+Germany,DEU,SP.POP.TOTL,Total Population,2015,81686611.0
+Germany,DEU,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2023,49.3751808952691
+Germany,DEU,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2022,49.3678756688655
+Germany,DEU,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2021,49.3677342299699
+Germany,DEU,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2020,49.3744737826815
+Germany,DEU,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2019,49.3799879764267
+Germany,DEU,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2018,49.3755951438065
+Germany,DEU,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2017,49.3628375825488
+Germany,DEU,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2016,49.349612336756
+Germany,DEU,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2015,49.2239918318226
+Germany,DEU,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2023,50.6248191047309
+Germany,DEU,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2022,50.6321243311345
+Germany,DEU,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2021,50.6322657700301
+Germany,DEU,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2020,50.6255262173185
+Germany,DEU,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2019,50.6200120235733
+Germany,DEU,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2018,50.6244048561935
+Germany,DEU,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2017,50.6371624174512
+Germany,DEU,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2016,50.650387663244
+Germany,DEU,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2015,50.7760081681774
+Germany,DEU,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2023,13.9155702737293
+Germany,DEU,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2022,13.9125311211787
+Germany,DEU,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2021,13.8577309430111
+Germany,DEU,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2020,13.7617263334875
+Germany,DEU,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2019,13.6625971101334
+Germany,DEU,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2018,13.5626162807968
+Germany,DEU,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2017,13.4570189858595
+Germany,DEU,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2016,13.3264938863506
+Germany,DEU,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2015,13.2101109669446
+Germany,DEU,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2023,63.2943857808214
+Germany,DEU,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2022,63.6285624993021
+Germany,DEU,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2021,64.007731691245
+Germany,DEU,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2020,64.3935455490144
+Germany,DEU,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2019,64.709009583285
+Germany,DEU,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2018,64.9876223341919
+Germany,DEU,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2017,65.2493405041228
+Germany,DEU,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2016,65.5385099359924
+Germany,DEU,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2015,65.7365353514053
+Germany,DEU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2023,22.7900439454493
+Germany,DEU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2022,22.4589063795192
+Germany,DEU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2021,22.1345373657439
+Germany,DEU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2020,21.8447281174981
+Germany,DEU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,21.6283933065816
+Germany,DEU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,21.4497613850113
+Germany,DEU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,21.2936405100178
+Germany,DEU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,21.134996177657
+Germany,DEU,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,21.0533536816501
+Germany,DEU,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2023,14.4718183613135
+Germany,DEU,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2022,14.4722279746327
+Germany,DEU,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2021,14.4184637351598
+Germany,DEU,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2020,14.3183741053035
+Germany,DEU,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2019,14.2141976289214
+Germany,DEU,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2018,14.1138870779957
+Germany,DEU,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2017,14.0114402107566
+Germany,DEU,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2016,13.882121718955
+Germany,DEU,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2015,13.7838042404348
+Germany,DEU,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2023,65.1059479755379
+Germany,DEU,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2022,65.4481272678986
+Germany,DEU,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2021,65.8267620281135
+Germany,DEU,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2020,66.2177106109807
+Germany,DEU,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2019,66.5539256173486
+Germany,DEU,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2018,66.851819706032
+Germany,DEU,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2017,67.1322303255267
+Germany,DEU,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2016,67.4457840853694
+Germany,DEU,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2015,67.6298326163158
+Germany,DEU,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2023,20.4222336631486
+Germany,DEU,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2022,20.0796447574687
+Germany,DEU,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2021,19.7547742367266
+Germany,DEU,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2020,19.4639152837158
+Germany,DEU,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2019,19.2318767537301
+Germany,DEU,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2018,19.0342932159723
+Germany,DEU,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2017,18.8563294637167
+Germany,DEU,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2016,18.6720941956756
+Germany,DEU,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2015,18.5863631432494
+Germany,DEU,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2023,13.3730527678379
+Germany,DEU,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2022,13.36680951891
+Germany,DEU,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2021,13.3110023427636
+Germany,DEU,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2020,13.2188343737611
+Germany,DEU,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2019,13.124508985956
+Germany,DEU,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2018,13.0249443132193
+Germany,DEU,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2017,12.9165502160795
+Germany,DEU,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2016,12.7851353749033
+Germany,DEU,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2015,12.6539531600228
+Germany,DEU,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2023,61.5275406885296
+Germany,DEU,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2022,61.8544310300567
+Germany,DEU,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2021,62.2341312815512
+Germany,DEU,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2020,62.6144590323747
+Germany,DEU,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2019,62.9092879111308
+Germany,DEU,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2018,63.1694112590484
+Germany,DEU,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2017,63.4138351163294
+Germany,DEU,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2016,63.6802173274509
+Germany,DEU,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2015,63.9011084719902
+Germany,DEU,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2023,25.0994065436325
+Germany,DEU,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2022,24.7787594510333
+Germany,DEU,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2021,24.4548663756852
+Germany,DEU,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2020,24.1667065938642
+Germany,DEU,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2019,23.9662031029132
+Germany,DEU,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2018,23.8056444277323
+Germany,DEU,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2017,23.6696146675912
+Germany,DEU,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2016,23.5346472976459
+Germany,DEU,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2015,23.444938367987
+Germany,DEU,SM.POP.NETM,Net migration,2023,609553.0
+Germany,DEU,SM.POP.NETM,Net migration,2022,981552.0
+Germany,DEU,SM.POP.NETM,Net migration,2021,310264.0
+Germany,DEU,SM.POP.NETM,Net migration,2020,203468.0
+Germany,DEU,SM.POP.NETM,Net migration,2019,319082.0
+Germany,DEU,SM.POP.NETM,Net migration,2018,403908.0
+Germany,DEU,SM.POP.NETM,Net migration,2017,452988.0
+Germany,DEU,SM.POP.NETM,Net migration,2016,517480.0
+Germany,DEU,SM.POP.NETM,Net migration,2015,1175283.0
+Germany,DEU,SM.POP.TOTL.ZS,International migrant stock (% of population),2020,18.0
+Germany,DEU,SM.POP.TOTL.ZS,International migrant stock (% of population),2015,15.4
+Spain,ESP,SP.POP.TOTL,Total Population,2023,48347910.0
+Spain,ESP,SP.POP.TOTL,Total Population,2022,47786102.0
+Spain,ESP,SP.POP.TOTL,Total Population,2021,47443821.0
+Spain,ESP,SP.POP.TOTL,Total Population,2020,47359424.0
+Spain,ESP,SP.POP.TOTL,Total Population,2019,47118501.0
+Spain,ESP,SP.POP.TOTL,Total Population,2018,46782011.0
+Spain,ESP,SP.POP.TOTL,Total Population,2017,46571232.0
+Spain,ESP,SP.POP.TOTL,Total Population,2016,46458139.0
+Spain,ESP,SP.POP.TOTL,Total Population,2015,46422303.0
+Spain,ESP,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2023,49.0996623363287
+Spain,ESP,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2022,49.1039807889805
+Spain,ESP,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2021,49.1099201869261
+Spain,ESP,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2020,49.1138705552429
+Spain,ESP,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2019,49.1188701164399
+Spain,ESP,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2018,49.1286644306146
+Spain,ESP,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2017,49.1527364965816
+Spain,ESP,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2016,49.1889599270713
+Spain,ESP,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2015,49.2234439242865
+Spain,ESP,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2023,50.9003376636713
+Spain,ESP,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2022,50.8960192110195
+Spain,ESP,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2021,50.8900798130739
+Spain,ESP,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2020,50.8861294447571
+Spain,ESP,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2019,50.8811298835601
+Spain,ESP,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2018,50.8713355693854
+Spain,ESP,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2017,50.8472635034184
+Spain,ESP,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2016,50.8110400729287
+Spain,ESP,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2015,50.7765560757135
+Spain,ESP,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2023,13.2586507610337
+Spain,ESP,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2022,13.5959103362946
+Spain,ESP,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2021,13.9083161586305
+Spain,ESP,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2020,14.1995072556252
+Spain,ESP,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2019,14.4487958383745
+Spain,ESP,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2018,14.665685455539
+Spain,ESP,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2017,14.8205817262009
+Spain,ESP,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2016,14.9182925617657
+Spain,ESP,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2015,14.9967903134298
+Spain,ESP,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2023,66.0876417150889
+Spain,ESP,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2022,66.2160904145149
+Spain,ESP,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2021,66.2783015470184
+Spain,ESP,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2020,66.2408766587242
+Spain,ESP,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2019,66.1693765330282
+Spain,ESP,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2018,66.1319737035927
+Spain,ESP,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2017,66.1865982307919
+Spain,ESP,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2016,66.3143685616246
+Spain,ESP,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2015,66.4614550787613
+Spain,ESP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2023,20.6537075238774
+Spain,ESP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2022,20.1879992491906
+Spain,ESP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2021,19.8133822943511
+Spain,ESP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2020,19.5596160856506
+Spain,ESP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,19.3818276285973
+Spain,ESP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,19.2023408408683
+Spain,ESP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,18.9928200430073
+Spain,ESP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,18.7673388766097
+Spain,ESP,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,18.5417546078088
+Spain,ESP,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2023,13.9000345747049
+Spain,ESP,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2022,14.2522771361564
+Spain,ESP,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2021,14.5776900224059
+Spain,ESP,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2020,14.8826959450926
+Spain,ESP,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2019,15.1439073328079
+Spain,ESP,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2018,15.367806136858
+Spain,ESP,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2017,15.5227760564794
+Spain,ESP,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2016,15.6144715937314
+Spain,ESP,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2015,15.688030863231
+Spain,ESP,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2023,67.7501916253123
+Spain,ESP,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2022,67.842683869803
+Spain,ESP,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2021,67.8701985663406
+Spain,ESP,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2020,67.8099417555248
+Spain,ESP,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2019,67.726176522085
+Spain,ESP,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2018,67.6907629185488
+Spain,ESP,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2017,67.7626166933416
+Spain,ESP,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2016,67.9094312877842
+Spain,ESP,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2015,68.0691654991676
+Spain,ESP,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2023,18.3497737999828
+Spain,ESP,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2022,17.9050389940406
+Spain,ESP,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2021,17.5521114112535
+Spain,ESP,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2020,17.3073622993826
+Spain,ESP,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2019,17.1299161451072
+Spain,ESP,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2018,16.9414309445933
+Spain,ESP,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2017,16.7146072501789
+Spain,ESP,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2016,16.4760971184844
+Spain,ESP,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2015,16.2428036376014
+Spain,ESP,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2023,12.6399568690995
+Spain,ESP,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2022,12.9626540641425
+Spain,ESP,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2021,13.2623573299282
+Spain,ESP,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2020,13.5401126190025
+Spain,ESP,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2019,13.7777594184871
+Spain,ESP,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2018,13.9876169331337
+Spain,ESP,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2017,14.1417886155527
+Spain,ESP,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2016,14.2443381628358
+Spain,ESP,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2015,14.3266928694323
+Spain,ESP,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2023,64.4839070205644
+Spain,ESP,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2022,64.6467689497188
+Spain,ESP,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2021,64.7420898876381
+Spain,ESP,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2020,64.7264588627438
+Spain,ESP,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2019,64.6664960606097
+Spain,ESP,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2018,64.6265830665574
+Spain,ESP,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2017,64.6631019157352
+Spain,ESP,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2016,64.7702261909056
+Spain,ESP,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2015,64.902920001917
+Spain,ESP,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2023,22.8761361103361
+Spain,ESP,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2022,22.3905769861387
+Spain,ESP,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2021,21.9955527824337
+Spain,ESP,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2020,21.7334285182537
+Spain,ESP,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2019,21.5557445209032
+Spain,ESP,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2018,21.3858000003089
+Spain,ESP,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2017,21.195109468712
+Spain,ESP,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2016,20.9854356462586
+Spain,ESP,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2015,20.7703871286507
+Spain,ESP,SM.POP.NETM,Net migration,2023,119099.0
+Spain,ESP,SM.POP.NETM,Net migration,2022,299779.0
+Spain,ESP,SM.POP.NETM,Net migration,2021,144385.0
+Spain,ESP,SM.POP.NETM,Net migration,2020,236854.0
+Spain,ESP,SM.POP.NETM,Net migration,2019,464783.0
+Spain,ESP,SM.POP.NETM,Net migration,2018,337467.0
+Spain,ESP,SM.POP.NETM,Net migration,2017,201135.0
+Spain,ESP,SM.POP.NETM,Net migration,2016,106474.0
+Spain,ESP,SM.POP.NETM,Net migration,2015,-1979.0
+Spain,ESP,SM.POP.TOTL.ZS,International migrant stock (% of population),2020,15.0
+Spain,ESP,SM.POP.TOTL.ZS,International migrant stock (% of population),2015,12.6
+France,FRA,SP.POP.TOTL,Total Population,2023,68287487.0
+France,FRA,SP.POP.TOTL,Total Population,2022,68065015.0
+France,FRA,SP.POP.TOTL,Total Population,2021,67842811.0
+France,FRA,SP.POP.TOTL,Total Population,2020,67601110.0
+France,FRA,SP.POP.TOTL,Total Population,2019,67382061.0
+France,FRA,SP.POP.TOTL,Total Population,2018,67158348.0
+France,FRA,SP.POP.TOTL,Total Population,2017,66918020.0
+France,FRA,SP.POP.TOTL,Total Population,2016,66724104.0
+France,FRA,SP.POP.TOTL,Total Population,2015,66548272.0
+France,FRA,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2023,48.4690810512727
+France,FRA,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2022,48.4584151441406
+France,FRA,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2021,48.4484928079225
+France,FRA,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2020,48.4388283505735
+France,FRA,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2019,48.4293914544466
+France,FRA,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2018,48.4146195649536
+France,FRA,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2017,48.4118356845068
+France,FRA,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2016,48.398438541877
+France,FRA,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",2015,48.3947499995263
+France,FRA,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2023,51.5309189487273
+France,FRA,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2022,51.5415848558594
+France,FRA,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2021,51.5515071920775
+France,FRA,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2020,51.5611716494265
+France,FRA,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2019,51.5706085455534
+France,FRA,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2018,51.5853804350464
+France,FRA,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2017,51.5881643154932
+France,FRA,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2016,51.601561458123
+France,FRA,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",2015,51.6052500004737
+France,FRA,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2023,16.7847783333666
+France,FRA,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2022,17.0314157651472
+France,FRA,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2021,17.2452061536194
+France,FRA,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2020,17.439158040113
+France,FRA,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2019,17.6087445052606
+France,FRA,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2018,17.7811833774633
+France,FRA,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2017,17.9310747730834
+France,FRA,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2016,18.0831627362917
+France,FRA,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),2015,18.244961483963
+France,FRA,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2023,61.4660792751563
+France,FRA,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2022,61.5912351189772
+France,FRA,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2021,61.7040398746753
+France,FRA,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2020,61.8134010588151
+France,FRA,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2019,61.9811666181521
+France,FRA,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2018,62.1793955597294
+France,FRA,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2017,62.3980765439097
+France,FRA,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2016,62.632173096763
+France,FRA,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),2015,62.9034115542196
+France,FRA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2023,21.7491423914771
+France,FRA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2022,21.3773491158756
+France,FRA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2021,21.0507539717053
+France,FRA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2020,20.747440901072
+France,FRA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2019,20.4100888765873
+France,FRA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2018,20.0394210628073
+France,FRA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2017,19.6708486830069
+France,FRA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2016,19.2846641669454
+France,FRA,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),2015,18.8516269618174
+France,FRA,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2023,17.7242398610422
+France,FRA,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2022,17.9918119330141
+France,FRA,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2021,18.2254637400367
+France,FRA,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2020,18.4347142991749
+France,FRA,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2019,18.6099404607777
+France,FRA,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2018,18.7856371343466
+France,FRA,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2017,18.938826852245
+France,FRA,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2016,19.1065118458696
+France,FRA,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",2015,19.2781926756437
+France,FRA,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2023,62.8576949031244
+France,FRA,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2022,62.9487820493221
+France,FRA,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2021,63.025192367319
+France,FRA,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2020,63.1103842331275
+France,FRA,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2019,63.2704044804696
+France,FRA,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2018,63.4669074112094
+France,FRA,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2017,63.6918138940655
+France,FRA,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2016,63.9199848817603
+France,FRA,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",2015,64.1921545414049
+France,FRA,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2023,19.4180652358335
+France,FRA,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2022,19.0594060176638
+France,FRA,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2021,18.7493438926443
+France,FRA,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2020,18.4549014676975
+France,FRA,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2019,18.1196550587527
+France,FRA,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2018,17.7474554544441
+France,FRA,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2017,17.3693592536895
+France,FRA,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2016,16.97350327237
+France,FRA,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",2015,16.5296527829514
+France,FRA,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2023,15.9011372514605
+France,FRA,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2022,16.1284695903899
+France,FRA,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2021,16.3239527139182
+France,FRA,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2020,16.5038887959544
+France,FRA,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2019,16.668532363177
+France,FRA,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2018,16.8384696305354
+France,FRA,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2017,16.9853708744866
+France,FRA,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2016,17.1233371355813
+France,FRA,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",2015,17.276010356643
+France,FRA,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2023,60.157149954615
+France,FRA,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2022,60.3148953658409
+France,FRA,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2021,60.4624108425896
+France,FRA,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2020,60.594958141015
+France,FRA,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2019,60.7704574802406
+France,FRA,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2018,60.9710222390014
+France,FRA,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2017,61.1839957386183
+France,FRA,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2016,61.4243011119554
+France,FRA,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",2015,61.6948447007279
+France,FRA,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2023,23.9417127939245
+France,FRA,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2022,23.5566350437691
+France,FRA,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2021,23.2136364434922
+France,FRA,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2020,22.9011530630305
+France,FRA,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2019,22.5610101565824
+France,FRA,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2018,22.1905081304632
+France,FRA,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2017,21.830633386895
+France,FRA,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2016,21.4523617524633
+France,FRA,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",2015,21.0291449426291
+France,FRA,SM.POP.NETM,Net migration,2023,91862.0
+France,FRA,SM.POP.NETM,Net migration,2022,179377.0
+France,FRA,SM.POP.NETM,Net migration,2021,131465.0
+France,FRA,SM.POP.NETM,Net migration,2020,145593.0
+France,FRA,SM.POP.NETM,Net migration,2019,71972.0
+France,FRA,SM.POP.NETM,Net migration,2018,132925.0
+France,FRA,SM.POP.NETM,Net migration,2017,102984.0
+France,FRA,SM.POP.NETM,Net migration,2016,15548.0
+France,FRA,SM.POP.NETM,Net migration,2015,-345.0
+France,FRA,SM.POP.TOTL.ZS,International migrant stock (% of population),2020,13.1
+France,FRA,SM.POP.TOTL.ZS,International migrant stock (% of population),2015,12.3

@@ -1,2 +1,2 @@
-location,age_range,gender,language,audience_count,success,error,timestamp,data_source,wb_population_estimate,linkedin_penetration_rate,data_quality_flag
-Germany,All,All,English,24000000,True,,2025-10-18T19:29:38.081139,real_api,83901923,28.6,ok
+location,age_range,gender,language,audience_count,success,error,timestamp,data_source,wb_population_estimate,wb_year,wb_total_population,wb_male_percentage,wb_female_percentage,linkedin_penetration_rate,audience_per_million_population,data_quality_flag
+Germany,All,All,English,24000000,True,,2025-10-19T19:26:13.395323,real_api,83901923,2023,83901923,49.3751808952691,50.6248191047309,28.6,286048.0,ok

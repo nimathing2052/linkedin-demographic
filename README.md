@@ -2,20 +2,20 @@
 
 A Python pipeline that combines LinkedIn audience data with World Bank demographic data to analyze digital penetration rates and demographic insights.
 
-## 🚀 Features
+## Features
 
 - **LinkedIn API Integration**: Scrapes real audience data from LinkedIn Campaign Manager
 - **World Bank Data**: Downloads and processes demographic data from World Bank API
 - **Data Analysis**: Combines datasets and generates insights about digital penetration
 - **Visualizations**: Creates charts and analysis reports
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Python 3.8+
 - LinkedIn Campaign Manager access
 - Fresh authentication cookies and headers
 
-## 🛠️ Installation
+## Installation
 
 1. Clone the repository:
 ```bash
@@ -28,7 +28,7 @@ cd linkedin-demographic
 pip install -r requirements.txt
 ```
 
-## 🔐 Authentication Setup
+## Authentication Setup
 
 **Important**: You need to capture fresh cookies and headers from your LinkedIn Campaign Manager session.
 
@@ -67,7 +67,7 @@ csrf-token: "your-actual-csrf-token"
 # ... other headers
 ```
 
-## 🏃‍♂️ Usage
+## Usage
 
 ### Quick Start (One-Click Demo)
 
@@ -107,7 +107,7 @@ The pipeline generates:
 - `combined_linkedin_wb_data.csv` - Combined analysis
 - `linkedin_demographics_analysis.png` - Visualization
 
-## 📊 Current Capabilities
+## Current Capabilities
 
 - **One-Click Demo**: Runs immediately with realistic mock data
 - **Real API Integration**: Uses LinkedIn Campaign Manager API when authentication provided
@@ -116,7 +116,7 @@ The pipeline generates:
 - **Demographic Analysis**: World Bank population data
 - **Penetration Rate**: LinkedIn users / Total population (28.6% for Germany)
 
-## 🔧 Project Structure
+## Project Structure
 
 ```
 linkedin-demographic/
@@ -135,13 +135,13 @@ linkedin-demographic/
 └── README.md                    # This file
 ```
 
-## 🚨 Important Notes
+## Important Notes
 
 - **Authentication**: Cookies and headers expire frequently. You'll need to refresh them regularly.
 - **Rate Limiting**: The pipeline includes delays to respect LinkedIn's rate limits.
 - **Data Quality**: Currently optimized for Germany + English combination.
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - Support for more location/language combinations
 - Automated authentication refresh
@@ -152,7 +152,7 @@ linkedin-demographic/
 
 This project is for research and educational purposes. Please respect LinkedIn's Terms of Service and rate limits.
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch
