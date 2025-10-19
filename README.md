@@ -2,12 +2,21 @@
 
 A Python pipeline that combines LinkedIn audience data with World Bank demographic data to analyze digital penetration rates and demographic insights.
 
+This was originally inspired by the Session from [Tom Theile](https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/tom_theile_3933/) 
+"Measuring and understanding bias in digital trace data" in [SICSS] (https://sicss.io/2025/saarbrucken/), Saarbrücken. 
+
+I redesigned emphasizing on design/maintenance, collaboration-friendly code, and reproducibility.
+
+The Original Code is here: 
+
+https://github.com/tomthe/2025-09-Saarbruecken
+
 ## Features
 
 - **LinkedIn API Integration**: Scrapes real audience data from LinkedIn Campaign Manager
 - **World Bank Data**: Downloads and processes demographic data from World Bank API
 - **Data Analysis**: Combines datasets and generates insights about digital penetration
-- **Visualizations**: Creates charts and analysis reports
+- **Visualizations**: Creates charts and analysis reports 
 
 ## Prerequisites
 
@@ -152,7 +161,7 @@ linkedin-demographic/
 
 This project is for research and educational purposes. Please respect LinkedIn's Terms of Service and rate limits.
 
-## Contributing
+## 🤝 Contributing
 
 1. Fork the repository
 2. Create a feature branch
